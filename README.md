@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Topsy</h1>
-<h3 align="center">I'm a Front-End Developer, Having a Solid foundation in HTML, CSS, JavaScript, React.js & Node.js. My journey in programming began with a deep curiosity about how websites work, and that curiosity quickly turned into a career that I love. I bring a meticulous attention to detail and a deep understanding of modern web technologies to every project I work on.</h3>
+<h3 align="center">I'm a Front-End Developer, Having a Solid foundation in HTML, CSS, JavaScript, React.js, Next.js & Node.js. My journey in programming began with a deep curiosity about how websites work, and that curiosity quickly turned into a career that I love. I bring a meticulous attention to detail and a deep understanding of modern web technologies to every project I work on.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/maruping3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maruping3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maruping-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruping-m" height="30" width="40" /></a>
 </p>
 
