@@ -1,5 +1,5 @@
-# Hi, I'm Topsy👋😄:
-A passionate web developer who loves building modern, scalable applications. With a strong background of familiar programming technologies.<br>I enjoy turning ideas into functional, user-friendly solutions. Always learning, always creating! 🚀
+# Hello, my name is Maruping Topsy Malatji👋😄:
+Highly driven and ambitious individual with a strong passion for continuous growth, both personally and professionally. Adaptable and eager to explore new industries. I believe in the power of collaboration and knowledge-sharing to uplift those around me. I take pride in delivering exceptional results and constantly seeking opportunities to refine my skills and advance in my career.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marupingm&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
