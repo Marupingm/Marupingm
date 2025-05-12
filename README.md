@@ -13,7 +13,7 @@ Highly driven and ambitious individual with a strong passion for continuous grow
 
 <table>
   <tr>
-    <td valign="top" align="center"><strong>🧑‍🎨 Frontend</strong><br><br>
+    <td valign="top"><strong>🧑‍🎨 Frontend</strong><br><br>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -25,7 +25,7 @@ Highly driven and ambitious individual with a strong passion for continuous grow
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
     </td>
-    <td valign="top" align="center"><strong>🧠 Backend</strong><br><br>
+    <td valign="top"><strong>🧠 Backend</strong><br><br>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -36,7 +36,7 @@ Highly driven and ambitious individual with a strong passion for continuous grow
       <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
     </td>
-    <td valign="top" align="center"><strong>🛠️ Tools & DevOps</strong><br><br>
+    <td valign="top"><strong>🛠️ Tools & DevOps</strong><br><br>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
@@ -53,7 +53,7 @@ Highly driven and ambitious individual with a strong passion for continuous grow
 
 </div>
 
-#### 📊 Most Used
+#### 📊 My Most Used on Github
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marupingm&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
