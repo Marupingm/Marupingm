@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/Marupingm/Marupingm/refs/heads/main/banner.png" alt="Maruping's Banner" width="100%" />
 </p>
 
-Highly driven and ambitious individual with a strong passion for continuous growth—both personally and professionally. I thrive in collaborative environments and believe in the power of sharing knowledge to uplift others. I'm adaptable, eager to explore new technologies and industries, and constantly seeking opportunities to refine my skills and deliver exceptional results.
+Full-Stack Software Developer with a strong track record of delivering scalable, high-performance web applications using modern technologies across both front-end and back-end stacks. I specialize in PHP, Laravel, MySQL, JavaScript, TypeScript, React.js, Next.js, Node.js, HTML, CSS, Tailwind CSS, Bootstrap, Git, GitHub, and CI/CD pipelines.
+
+My development approach is centered on writing clean, maintainable code and designing user-friendly, efficient systems. I’ve built applications that balance technical complexity with user-centric design, while working collaboratively within fast-paced, Agile teams. I value clarity in communication and take pride in aligning technical solutions with business objectives.
 
 ---
 
